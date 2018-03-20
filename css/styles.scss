@@ -1,0 +1,51 @@
+// Framework
+@import url('https://cdnjs.cloudflare.com/ajax/libs/uikit/2.xx.x/css/uikit.min.css');
+
+// Light Gallery Base Styling
+@import 'lightgallery';
+// Light Gallery Animations
+@import 'lg-transitions';
+
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Oxygen');
+
+.container{
+  text-align:center;
+}
+
+.gallery{
+  text-align:center;
+  padding:5px;
+}
+
+h2 {
+  text-align:center;
+  font-family: 'Dancing Script', cursive;
+  font-size: 4em;
+  text-shadow: 0 0 20px gray;
+}
+
+.lg-backdrop {
+  background-color:#daa520;
+}
+
+.parallax-window{
+  text-align:center;
+  max-height: 100%;
+  max-width: 100%
+  background: transparent;
+}
+
+h1{
+  font-size:1.5em;
+  text-align: center;
+}
+
+p{
+  font-family: 'Oxygen', sans-serif;
+  font-size:1em;
+  padding:5%;
+}
+
+footer{
+  text-align:center;
+}
