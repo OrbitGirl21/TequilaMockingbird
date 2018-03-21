@@ -18,4 +18,4 @@ $('h2 span').text( eval('msg' + randNum) );
 
 console.log( randNum );
 
-$('.parallax-window').parallax({imageSrc: 'img/Tequila_lime.jpg'});
+$('.parallax-window').parallax({imageSrc: 'img/tequila_lime.png'});

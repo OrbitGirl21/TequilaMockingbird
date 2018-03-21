@@ -8,10 +8,6 @@
 
 @import url('https://fonts.googleapis.com/css?family=Dancing+Script|Oxygen');
 
-.container{
-  text-align:center;
-}
-
 .gallery{
   text-align:center;
   padding:5px;
@@ -29,7 +25,7 @@ h2 {
 }
 
 .parallax-window{
-  text-align:center;
+  margin: 0 auto;
   max-height: 100%;
   max-width: 100%
   background: transparent;
@@ -47,5 +43,9 @@ p{
 }
 
 footer{
+  text-align:center;
+}
+
+.container{
   text-align:center;
 }
